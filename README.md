@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Dashboard](https://raw.githubusercontent.com/jacky-xbb/pics/main/uPic/4QJhDX.png)
+![Dashboard](https://raw.githubusercontent.com/jacky-xbb/pics/main/uPic/pJj0o1.png)
 
 
 ## Setup
